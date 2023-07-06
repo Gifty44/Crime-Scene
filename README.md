@@ -1,5 +1,5 @@
 # Crime-Scene
-This project is about helping the dectectives to trace the murderer to a murder crime. With the information previsouly known, i worked with the data gotten from the police deparment's database.
+This project is about helping the dectectives to trace the murderer to a murder crime. With the information previously known, i worked with the data gotten from the police deparment's database.
 
 From the crime_scene_report and facebook_event_checkin tables, I got the names and addresses of the two witnesses, a male and a female. From their id i get to trace their statement from the interview they had. Where further information were provided to help apprehend the culprit.
 
